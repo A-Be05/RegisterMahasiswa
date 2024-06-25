@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129434632847",
+    "project_id": "registermahasiswa",
+    "storage_bucket": "registermahasiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129434632847:android:fdb82262beddc8fee426fa",
+        "android_client_info": {
+          "package_name": "com.example.registermahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArJalmGHxWsn1sewOjmajjWxosoqxnnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

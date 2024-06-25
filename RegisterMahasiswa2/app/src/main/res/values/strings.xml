@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RegisterMahasiswa</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="nama">nama</string>
+    <string name="tempat_dan_tanggal_lahir">Tempat dan Tanggal lahir</string>
+    <string name="Nama">Nama</string>
+    <string name="jenis_kelamin">Jenis kelamin</string>
+    <string name="no_hp">No. HP</string>
+</resources>
